@@ -207,25 +207,6 @@ Your UI will communicate with the Flask API automatically.
 
 ---
 
-## 📦 requirements.txt
-
-```
-pandas
-numpy
-matplotlib
-seaborn
-statsmodels
-scikit-learn
-xgboost
-tensorflow
-joblib
-flask
-flask-cors
-jupyter
-```
-
----
-
 ## 📈 Future Improvements
 
 * Deploy backend (Render / AWS / Railway)
