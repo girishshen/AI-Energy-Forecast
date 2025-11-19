@@ -10,3 +10,4 @@ joblib
 flask
 flask-cors
 jupyter
+pytest
