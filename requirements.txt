@@ -9,3 +9,4 @@ tensorflow
 joblib
 flask
 flask-cors
+jupyter

@@ -45,7 +45,7 @@ This system predicts **next hour energy usage (kWh)** and provides a clean UI wi
 
 ### 🧮 **Flask Backend**
 
-* `/predict` endpoint
+* `/api/predict` endpoint
 * Handles timestamps
 * Returns predicted kWh + model used
 * Handles missing timestamp gracefully
@@ -219,9 +219,9 @@ scikit-learn
 xgboost
 tensorflow
 joblib
-Flask
-Flask-cors
-python-dateutil
+flask
+flask-cors
+jupyter
 ```
 
 ---
