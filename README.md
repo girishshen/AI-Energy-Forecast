@@ -115,8 +115,8 @@ ENERGY-FORECASTING/
 │   ├── 02. Feature Engineering.ipynb
 │   └── 03. Modelling.ipynb
 │
-│── screenshots/
-│   └── (place your UI images here)
+│── tests/
+│   └── test_api.py
 │
 │── requirements.txt
 └── README.md
