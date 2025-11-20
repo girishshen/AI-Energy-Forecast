@@ -182,7 +182,7 @@ Your UI will communicate with the Flask API automatically.
 
 ## 📡 API Usage
 
-### **POST /predict**
+### **POST /api/predict**
 
 #### Sample Request
 
