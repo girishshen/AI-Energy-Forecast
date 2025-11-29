@@ -1,5 +1,4 @@
 # 🔋 **AI Energy Forecasting System**
-
 A complete end-to-end **Energy Forecasting Application** featuring:
 
 * 🧠 **Machine Learning model (XGBoost / MLP / LSTM)**
@@ -9,6 +8,21 @@ A complete end-to-end **Energy Forecasting Application** featuring:
 * 📁 Full project structure with **EDA, notebooks, datasets, and saved models**
 
 This system predicts **next hour energy usage (kWh)** and provides a clean UI with history, CSV export, timestamp input, and visual organization.
+
+---
+```markdown
+<!-- Badges -->
+<p align="center">
+  <img src="https://img.shields.io/github/stars/girishshen/ai-energy-forecast?style=flat-square&color=blue" />
+  <img src="https://img.shields.io/github/forks/girishshen/ai-energy-forecast?style=flat-square" />
+  <img src="https://img.shields.io/github/license/girishshen/ai-energy-forecast?style=flat-square" />
+  <img src="https://img.shields.io/badge/Made%20with-Flask-black?style=flat&logo=flask" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-XGBoost-orange?style=flat" />
+</p>
+
+<p align="center">
+  <b>🔥 AI-Powered Energy Forecasting System | Machine Learning • Flask API • Modern Frontend • End-to-End Project</b>
+</p>
 
 ---
 
@@ -85,7 +99,8 @@ This system predicts **next hour energy usage (kWh)** and provides a clean UI wi
 ## 📂 Project Structure
 
 ```
-Energy-Forecasting/
+
+ENERGY-FORECASTING/
 │── app/
 │   └── energy_app.py
 │
@@ -120,6 +135,7 @@ Energy-Forecasting/
 │
 │── requirements.txt
 └── README.md
+
 ```
 
 ---
@@ -129,9 +145,9 @@ Energy-Forecasting/
 ### **1️⃣ Clone the repository**
 
 ```sh
-git clone https://github.com/girishshenoy16/AI-Energy-Forecast.git
+git clone https://github.com/girishshenoy16/AI-Energy-Forecasting-System.git
 cd AI-Energy-Forecast
-```
+````
 
 ---
 
@@ -182,7 +198,7 @@ Your UI will communicate with the Flask API automatically.
 
 ## 📡 API Usage
 
-### **POST /api/predict**
+### **POST /predict**
 
 #### Sample Request
 
