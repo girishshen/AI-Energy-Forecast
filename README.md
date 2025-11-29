@@ -15,7 +15,7 @@ This system predicts **next hour energy usage (kWh)** and provides a clean UI wi
 
 ![Stars](https://img.shields.io/github/stars/girishshenoy16/ai-energy-forecast?style=flat-square&color=blue)
 
-![Forks](img.shields.io/github/forks/girishshen/ai-energy-forecast?style=flat-square)
+![Forks](https://img.shields.io/github/forks/girishshen/ai-energy-forecast?style=flat-square)
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 
