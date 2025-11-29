@@ -1,13 +1,11 @@
 <svg width="1600" height="360" viewBox="0 0 1600 360" fill="none" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Background Gradient -->
   <defs>
     <linearGradient id="grad" x1="0" y1="0" x2="1600" y2="360">
       <stop offset="0%" stop-color="#0A0F1F" />
       <stop offset="100%" stop-color="#0F223A" />
     </linearGradient>
 
-    <!-- Glow Filter -->
     <filter id="glow">
       <feGaussianBlur stdDeviation="8" result="coloredBlur"/>
       <feMerge>
